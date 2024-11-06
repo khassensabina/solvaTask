@@ -2,14 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To LOGIN
+
+### Username: admin
+### Password: test
+
 ## Available Scripts
-
-To login:
-
-### Username
-admin
-### Password
-test
 
 In the project directory, you can run:
 
